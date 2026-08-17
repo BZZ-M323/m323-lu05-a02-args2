@@ -1,3 +1,8 @@
+"""Listen ordnen.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu05/aufgaben/args2
+"""
+
 def reverse_merge(*args):
     """
     Merges multiple lists and returns the merged list in reversed order.
